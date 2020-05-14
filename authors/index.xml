@@ -1,16 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Authors | Academic</title>
-    <link>/authors/</link>
-      <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
+    <title>Authors | MEA-Lab</title>
+    <link>https://mea-lab.github.io/authors/</link>
+      <atom:link href="https://mea-lab.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://mea-lab.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Authors</title>
-      <link>/authors/</link>
+      <link>https://mea-lab.github.io/authors/</link>
     </image>
+    
+    <item>
+      <title>Diego L. Guarin</title>
+      <link>https://mea-lab.github.io/author/diego-l.-guarin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mea-lab.github.io/author/diego-l.-guarin/</guid>
+      <description>&lt;p&gt;Diego L. Guarin is an Assistant Professor in the Biomedical Engineering program at the Florida Institue of Technology. His research interests include the application of machine learning and computer vision for assessing neurological diseases, and the development of novel signal processing approaches to study the human neuromuscular system. 
+He is the director of the Movement Evaluation and Analysis Laboratory at Florida Tech.&lt;/p&gt;
+</description>
+    </item>
     
   </channel>
 </rss>

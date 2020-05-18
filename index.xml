@@ -5,12 +5,28 @@
     <link>https://mea-lab.github.io/</link>
       <atom:link href="https://mea-lab.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>MEA-Lab</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Diego L. Guarin</copyright><lastBuildDate>Thu, 14 May 2020 23:40:50 -0400</lastBuildDate>
     <image>
       <url>https://mea-lab.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>MEA-Lab</title>
       <link>https://mea-lab.github.io/</link>
     </image>
+    
+    <item>
+      <title>My Project Name</title>
+      <link>https://mea-lab.github.io/project/my-project-name/</link>
+      <pubDate>Thu, 14 May 2020 23:40:50 -0400</pubDate>
+      <guid>https://mea-lab.github.io/project/my-project-name/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>post</title>
+      <link>https://mea-lab.github.io/post/post1/</link>
+      <pubDate>Thu, 14 May 2020 23:30:25 -0400</pubDate>
+      <guid>https://mea-lab.github.io/post/post1/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title></title>

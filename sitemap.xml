@@ -253,8 +253,138 @@
   </url>
   
   <url>
+    <loc>https://mea-lab.github.io/category/joint-stiffnes/</loc>
+    <lastmod>2018-09-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mea-lab.github.io/tag/joint-stiffness/</loc>
+    <lastmod>2018-09-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mea-lab.github.io/author/rob/</loc>
+    <lastmod>2018-09-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mea-lab.github.io/tag/system-identification/</loc>
+    <lastmod>2018-09-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mea-lab.github.io/tag/time-varying-systems/</loc>
+    <lastmod>2018-09-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mea-lab.github.io/publication/2018b/</loc>
+    <lastmod>2018-09-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://mea-lab.github.io/publication/2018a/</loc>
     <lastmod>2018-07-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mea-lab.github.io/publication/2017b/</loc>
+    <lastmod>2017-08-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mea-lab.github.io/category/time-varying-systems/</loc>
+    <lastmod>2017-08-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mea-lab.github.io/publication/2017a/</loc>
+    <lastmod>2017-06-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mea-lab.github.io/publication-type/7/</loc>
+    <lastmod>2017-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mea-lab.github.io/thesis/</loc>
+    <lastmod>2017-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mea-lab.github.io/thesis/phddiego/</loc>
+    <lastmod>2017-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mea-lab.github.io/publication-type/1/</loc>
+    <lastmod>2015-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mea-lab.github.io/publication/2015b/</loc>
+    <lastmod>2015-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mea-lab.github.io/author/ehsan-sobhani-tehrani/</loc>
+    <lastmod>2015-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mea-lab.github.io/author/kian-jalaleddini/</loc>
+    <lastmod>2015-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mea-lab.github.io/author/mahsa-golka/</loc>
+    <lastmod>2015-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mea-lab.github.io/publication/2015c/</loc>
+    <lastmod>2015-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mea-lab.github.io/publication/2015d/</loc>
+    <lastmod>2015-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mea-lab.github.io/publication/2015a/</loc>
+    <lastmod>2015-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mea-lab.github.io/tag/emg/</loc>
+    <lastmod>2014-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mea-lab.github.io/publication/2014a/</loc>
+    <lastmod>2014-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mea-lab.github.io/publication/2013b/</loc>
+    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mea-lab.github.io/author/henrietta-galiana/</loc>
+    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mea-lab.github.io/publication/2013a/</loc>
+    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mea-lab.github.io/author/mina-ranjbaran/</loc>
+    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -270,11 +400,23 @@
   </url>
   
   <url>
-    <loc>https://mea-lab.github.io/author/nelson-bighetti/</loc>
+    <loc>https://mea-lab.github.io/author/gabriela-acevedo/</loc>
   </url>
   
   <url>
-    <loc>https://mea-lab.github.io/author/nelson-bighettiii/</loc>
+    <loc>https://mea-lab.github.io/author/gabriela_acevedo/</loc>
+  </url>
+  
+  <url>
+    <loc>https://mea-lab.github.io/author/mariam-chanie/</loc>
+  </url>
+  
+  <url>
+    <loc>https://mea-lab.github.io/author/mariam_chanie/</loc>
+  </url>
+  
+  <url>
+    <loc>https://mea-lab.github.io/author/nelson-bighetti/</loc>
   </url>
   
   <url>
@@ -283,10 +425,6 @@
   
   <url>
     <loc>https://mea-lab.github.io/talk/</loc>
-  </url>
-  
-  <url>
-    <loc>https://mea-lab.github.io/author/rob/</loc>
   </url>
   
   <url>
